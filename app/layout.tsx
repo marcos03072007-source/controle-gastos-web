@@ -1,9 +1,8 @@
 import type { Metadata } from 'next'
-import './globals.css'
 
 export const metadata: Metadata = {
   title: 'Controle de Gastos',
-  description: 'Aplicação web para controle de despesas pessoais',
+  description: 'Controle suas despesas pessoais',
 }
 
 export default function RootLayout({
